@@ -1,0 +1,2 @@
+time[2018-03-30 12:21:29] uri[testRpc/Hello] map[appid:passport guid:f016587cfa58628a52a42f082ed86caf msg:123123] code[0] consume[0] consume_t[2] data[map[msg:123123]] 
+time[2018-03-30 15:31:26] uri[testRpc/Hello] map[msg:123123 appid:passport guid:68f980b81ea746f453a25ad9e778af62] code[0] consume[0] consume_t[1] data[map[msg:123123]] 

@@ -1,0 +1,87 @@
+Config Init:  /Users/Dll/huajiao/pepper_platform/trunk/go/src/demo/conf/app.conf
+LocalCache Init
+run cmd:  /Users/Dll/huajiao/pepper_platform/trunk/go/src/demo/bin/app.bin
+time:  2017-11-12 21:42:09
+pid:  3805
+======= http Server Start ======
+2017/11/12 21:42:09 HttpServer Listen:  :6002
+2017/11/12 21:42:09 3805 :6002
+log failed open /storage/logs/passport.hifun.mobi/passport_hifun_mobi_access.log.20171112: no such file or directory
+log failed open /storage/logs/passport.hifun.mobi/passport_hifun_mobi_access.log.20171112: no such file or directory
+Config Init:  /Users/Dll/huajiao/pepper_platform/trunk/go/src/demo/conf/app.conf
+LocalCache Init
+run cmd:  /Users/Dll/huajiao/pepper_platform/trunk/go/src/demo/bin/app.bin
+time:  2017-11-12 21:45:03
+pid:  3903
+======= http Server Start ======
+2017/11/12 21:45:03 HttpServer Listen:  :6002
+2017/11/12 21:45:03 3903 :6002
+log failed open /storage/logs/passport.hifun.mobi/passport_hifun_mobi_access.log.20171112: no such file or directory
+log failed open /storage/logs/passport.hifun.mobi/passport_hifun_mobi_access.log.20171112: no such file or directory
+log failed open /storage/logs/passport.hifun.mobi/passport_hifun_mobi_warn.log.20171112: no such file or directory
+log failed open /storage/logs/passport.hifun.mobi/passport_hifun_mobi_warn.log.20171112: no such file or directory
+log failed open /storage/logs/passport.hifun.mobi/passport_hifun_mobi_warn.log.20171112: no such file or directory
+Config Init:  /Users/Dll/huajiao/pepper_platform/trunk/go/src/demo/conf/app.conf
+LocalCache Init
+run cmd:  /Users/Dll/huajiao/pepper_platform/trunk/go/src/demo/bin/app.bin
+time:  2017-11-12 23:32:42
+pid:  5053
+======= cli Server Start ======
+ServeCli:  请求不合法: []
+======= Server Exit ======
+Config Init:  /Users/Dll/huajiao/pepper_platform/trunk/go/src/demo/conf/app.conf
+LocalCache Init
+run cmd:  /Users/Dll/huajiao/pepper_platform/trunk/go/src/demo/bin/app.bin
+time:  2017-11-12 23:35:12
+pid:  5141
+======= cli Server Start ======
+ServeCli:  请求不合法: []
+======= Server Exit ======
+Config Init:  /Users/Dll/huajiao/pepper_platform/trunk/go/src/demo/conf/app.conf
+LocalCache Init
+run cmd:  /Users/Dll/huajiao/pepper_platform/trunk/go/src/demo/bin/app.bin
+time:  2017-11-12 23:35:22
+pid:  5199
+======= cli Server Start ======
+ServeCli:  请求不合法: []
+======= Server Exit ======
+Config Init:  /Users/Dll/huajiao/pepper_platform/trunk/go/src/demo/conf/app.conf
+LocalCache Init
+run cmd:  /Users/Dll/huajiao/pepper_platform/trunk/go/src/demo/bin/app.bin
+time:  2017-11-12 23:35:56
+pid:  5266
+======= cli Server Start ======
+ServeCli:  请求不合法: []
+======= Server Exit ======
+Config Init:  /Users/Dll/huajiao/pepper_platform/trunk/go/src/demo/conf/app.conf
+LocalCache Init
+run cmd:  /Users/Dll/huajiao/pepper_platform/trunk/go/src/demo/bin/app.bin
+time:  2017-11-12 23:36:49
+pid:  5347
+======= cli Server Start ======
+ServeCli:  请求不合法: []
+======= Server Exit ======
+Config Init:  /Users/Dll/huajiao/pepper_platform/trunk/go/src/demo/conf/app.conf
+LocalCache Init
+run cmd:  /Users/Dll/huajiao/pepper_platform/trunk/go/src/demo/bin/app.bin
+time:  2017-11-12 23:39:23
+pid:  5429
+======= cli Server Start ======
+ServeCli:  请求不合法: []
+======= Server Exit ======
+Config Init:  /Users/Dll/huajiao/pepper_platform/trunk/go/src/demo/conf/app.conf
+LocalCache Init
+run cmd:  /Users/Dll/huajiao/pepper_platform/trunk/go/src/demo/bin/app.bin
+time:  2017-11-12 23:43:22
+pid:  5520
+======= cli Server Start ======
+ServeCli:  请求不合法: []
+======= Server Exit ======
+Config Init:  /Users/Dll/huajiao/pepper_platform/trunk/go/src/demo/conf/app.conf
+LocalCache Init
+run cmd:  /Users/Dll/huajiao/pepper_platform/trunk/go/src/demo/bin/app.bin
+time:  2017-11-13 18:42:40
+pid:  2139
+======= http Server Start ======
+2017/11/13 18:42:40 HttpServer Listen:  :6002
+2017/11/13 18:42:40 2139 :6002

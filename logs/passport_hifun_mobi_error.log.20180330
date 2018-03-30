@@ -1,0 +1,32 @@
+time[2018-03-30 11:54:48] ip[127.0.0.1] ua[curl/7.51.0] uri[/testHttp/rpc] assignment to entry in nil map goroutine 9 [running]:
+runtime/debug.Stack(0x15e8270, 0x1593d39, 0x1e)
+	/usr/local/Cellar/go/1.9/libexec/src/runtime/debug/stack.go:24 +0xa7
+github.com/mlaoji/ygo/controllers.(*BaseController).RenderError(0xc42008d540, 0x14e8b20, 0x15e8270, 0x1884870, 0x0, 0x0)
+	/Users/Dll/huajiao/pepper_platform/trunk/go/src/github.com/mlaoji/ygo/controllers/BaseController.go:467 +0x6da
+reflect.Value.call(0x1574a40, 0xc42008d540, 0x5213, 0x1583c91, 0x4, 0xc4201b1580, 0x2, 0x1, 0xc42000ef40, 0x13, ...)
+	/usr/local/Cellar/go/1.9/libexec/src/reflect/value.go:434 +0x906
+reflect.Value.Call(0x1574a40, 0xc42008d540, 0x5213, 0xc4201b1580, 0x1, 0x1, 0xc42008d540, 0x5213, 0x10c5acf)
+	/usr/local/Cellar/go/1.9/libexec/src/reflect/value.go:302 +0xa4
+github.com/mlaoji/ygo/lib.(*httpHandler).ServeHTTP.func2(0xc420055ca8, 0x1574a40, 0xc42008d540, 0x16)
+	/Users/Dll/huajiao/pepper_platform/trunk/go/src/github.com/mlaoji/ygo/lib/HttpServer.go:157 +0x167
+panic(0x14e8b20, 0x15e8270)
+	/usr/local/Cellar/go/1.9/libexec/src/runtime/panic.go:491 +0x283
+github.com/mlaoji/yclient.(*YClient).RequestTimeout(0xc4201f8840, 0x0, 0x158a1b5, 0xd, 0x0, 0x0, 0x0, 0xe, 0x14b9ee0, 0xc4201af1f0)
+	/Users/Dll/huajiao/pepper_platform/trunk/go/src/github.com/mlaoji/yclient/YClient.go:141 +0x23a
+github.com/mlaoji/yclient.(*YClient).Request(0xc4201f8840, 0x158a1b5, 0xd, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0)
+	/Users/Dll/huajiao/pepper_platform/trunk/go/src/github.com/mlaoji/yclient/YClient.go:127 +0x70
+demo/src/controllers.(*TestHttpController).RpcAction(0xc42008d540)
+	/Users/Dll/huajiao/pepper_platform/trunk/go/src/demo/src/controllers/TestHttpController.go:34 +0xde
+reflect.Value.call(0x1574a40, 0xc42008d540, 0x6213, 0x1583c91, 0x4, 0xc420055bb0, 0x0, 0x0, 0xc42000eed0, 0x13, ...)
+	/usr/local/Cellar/go/1.9/libexec/src/reflect/value.go:434 +0x906
+reflect.Value.Call(0x1574a40, 0xc42008d540, 0x6213, 0xc420055bb0, 0x0, 0x0, 0xc42008d540, 0x6213, 0x0)
+	/usr/local/Cellar/go/1.9/libexec/src/reflect/value.go:302 +0xa4
+github.com/mlaoji/ygo/lib.(*httpHandler).ServeHTTP(0xc420169d70, 0x181f800, 0xc4201aa1c0, 0xc420154100)
+	/Users/Dll/huajiao/pepper_platform/trunk/go/src/github.com/mlaoji/ygo/lib/HttpServer.go:170 +0x59d
+net/http.serverHandler.ServeHTTP(0xc4200da640, 0x181f800, 0xc4201aa1c0, 0xc420154100)
+	/usr/local/Cellar/go/1.9/libexec/src/net/http/server.go:2619 +0xb4
+net/http.(*conn).serve(0xc42008d4a0, 0x1820040, 0xc420061980)
+	/usr/local/Cellar/go/1.9/libexec/src/net/http/server.go:1801 +0x71d
+created by net/http.(*Server).Serve
+	/usr/local/Cellar/go/1.9/libexec/src/net/http/server.go:2720 +0x288
+ 

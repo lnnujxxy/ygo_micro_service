@@ -1,0 +1,8 @@
+time[2018-03-30 12:14:13] post[map[guid:[f0ab455d2a234a9dd1a2a4a3c6e0a527] msg:[123123] appid:[passport]]] uri[testRpc/Hello] {"code": 0,"consume": 0,"data": {"msg": "123123"},"msg": "OK","time": 1522383253} 
+time[2018-03-30 12:19:37] post[map[msg:[123123] appid:[passport] guid:[6633ba9e80deb0b89fe013a3e24bbf07]]] uri[testRpc/Hello] {"code": 0,"consume": 0,"data": {"msg": "123123"},"msg": "OK","time": 1522383577} 
+time[2018-03-30 12:21:18] post[map[msg:[123123] appid:[passport] guid:[f54b54e6cca6b2aa690b7e35a4fe9167]]] uri[testRpc/Hello] {"code": 0,"consume": 0,"data": {"msg": "123123"},"msg": "OK","time": 1522383678} 
+time[2018-03-30 12:21:29] post[map[appid:[passport] guid:[f016587cfa58628a52a42f082ed86caf] msg:[123123]]] uri[testRpc/Hello] {"code": 0,"consume": 0,"data": {"msg": "123123"},"msg": "OK","time": 1522383689} 
+time[2018-03-30 15:31:26] post[map[msg:[123123] appid:[passport] guid:[68f980b81ea746f453a25ad9e778af62]]] uri[testRpc/Hello] {"code": 0,"consume": 0,"data": {"msg": "123123"},"msg": "OK","time": 1522395086} 
+time[2018-03-30 16:11:22] ip[127.0.0.1] ua[curl/7.51.0] uri[/testHttp/hello] {"code": 0,"consume": 0,"data": {},"msg": "OK","time": 1522397482} 
+time[2018-03-30 16:12:42] ip[127.0.0.1] ua[curl/7.51.0] uri[/testHttp/hello] {"code": 0,"consume": 41475,"data": {},"msg": "OK","time": 1522397562} 
+time[2018-03-30 16:15:30] ip[127.0.0.1] ua[curl/7.51.0] uri[/testHttp/hello] {"code": 0,"consume": 0,"data": {},"msg": "OK","time": 1522397730} 
