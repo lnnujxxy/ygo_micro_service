@@ -1,1 +1,0 @@
-time[2017-11-12 21:25:34] ip[127.0.0.1] ua[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36] uri[/testHttp/hello?msg=123] {"code": 0,"consume": 0,"data": {"msg": "123"},"msg": "OK","time": 1510493134} 
