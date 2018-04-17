@@ -1,4 +1,3 @@
-# ygo_demo
 ## ygo golang 微服务框架 https://github.com/mlaoji/ygo
 
 ## 安装依赖
