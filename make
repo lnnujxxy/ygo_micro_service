@@ -32,5 +32,5 @@ export GOPATH=$sysgopath
 #./make demo
 #启动rpc
 #./bin/demo.app.bin -o $PWD/logs -f $PWD/conf/app.conf -m rpc
-启动http
-#./bin/demo.app.bin -o $PWD/logs -f $PWD/conf/app.conf -m http
+#启动http
+./bin/demo.app.bin -o $PWD/logs -f $PWD/conf/app.conf -m http
